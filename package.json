@@ -100,10 +100,10 @@
         "moment": "2.29.4",
         "randomstring": "1.2.2",
         "sockette": "2.0.6",
-        "tiny-secp256k1": "1.1.6",
+        "tiny-secp256k1": "1.1.7",
         "typescript-transform-paths": "2.2.3",
         "url": "0.11.0",
-        "web3": "1.10.0",
+        "web3": "4.0.1",
         "web3-eth-contract": "1.10.0",
         "xss": "1.0.11"
     },
